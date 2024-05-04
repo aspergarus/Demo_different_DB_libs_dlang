@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"mustafa1453"
+	],
+	"copyright": "Copyright © 2024, mustafa1453",
+	"dependencies": {
+		"d2sqlite3": "~>1.0.0",
+		"database": "~>1.2.1",
+		"database:sqlite": "~>1.2.1",
+		"ddbc": "~>0.6.0",
+		"miniorm": "~>0.0.10"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "db_demo"
+}

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/db_demo
+db_demo.so
+db_demo.dylib
+db_demo.dll
+db_demo.a
+db_demo.lib
+db_demo-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
